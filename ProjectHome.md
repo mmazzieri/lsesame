@@ -1,0 +1,1 @@
+An extension of the RDF storage adn inference system Sesame, supporting reasoning using labeled logic
